@@ -1,8 +1,7 @@
-import styles from "./page.module.css"
+import styles from "./Tasks.module.css"
 import Card from "./components/Card"
 
-
-export default function Target() {
+export default function Tasks() {
     return (
       <>
         <section className={styles.content}>

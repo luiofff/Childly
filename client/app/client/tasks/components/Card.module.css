@@ -6,11 +6,13 @@
     justify-content: space-between;
 
     border-radius: 20px;
-    padding: 2rem;
+    padding: 1.5rem;
 
-    gap: 2.5rem;
+    gap: 2rem;
 
-    border: 2px solid var(--main);
+    border: 1px solid var(--main);
+
+    background-color: #fff;
 }
 
 .mobile {
@@ -21,6 +23,9 @@
     height: 2rem;
     display: flex;
     align-items: center;
+
+    font-weight: bolder;
+
 }
 
 .ui_block {
@@ -32,6 +37,7 @@
 .price {
     color: var(--green);
 
+    font-weight: bold;
     font-size: 1.2rem;
 }
 

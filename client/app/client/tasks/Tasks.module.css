@@ -1,5 +1,5 @@
 .content {
-    padding: 0 10rem;
+    padding: 3rem 10rem;
 }
 
 .title {
@@ -24,7 +24,7 @@
 
     @media screen and (max-width:768px) {
         .content {
-            padding: 0 6rem;
+            padding: 3rem 6rem;
         }
         .card_space {
             padding-top: 3rem;
@@ -33,7 +33,7 @@
 
     @media screen and (max-width:560px) {
         .content {
-            padding: 0 2rem;
+            padding: 2rem 2rem;
         }
         
     }
