@@ -45,6 +45,7 @@ export default function Card({ option, money, target_price }) {
     }, [])
 
 
+
     return (
         <>
             <div className={styles.full_screen}>
